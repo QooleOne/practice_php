@@ -54,6 +54,7 @@ nav li a {
 
 .simple_list li {
 	color: #585858;
+	font-size: 13px;
 }
 	
 .logo img {
@@ -92,6 +93,7 @@ nav li a {
 
 .article {
     margin-top: 2em;   
+	font-family: 'Noto Sans', sans-serif;
 }
 
 p {
